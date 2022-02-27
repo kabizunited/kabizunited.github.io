@@ -1,0 +1,50 @@
+.main-navbar{
+    background-color: rgb(128, 0, 0)
+    ;
+    z-index: 99;
+
+
+}
+
+.navbar-brand{
+    top: 400px;
+}
+
+.text1{
+    color: rgb(238, 238, 238)
+    ;
+    font-size: 19px;
+}
+.brand{
+    left: 400px;
+}
+.main-photo{
+    margin-top: 90px;
+    margin-left: 10px;
+}
+
+.card-body{
+    width: 300px;
+}
+
+.footer{
+    background-color:rgb(255, 100, 100) ;
+}
+.main-navbar2{
+    background-color:rgb(255, 100, 100) ;
+}
+
+
+body{
+    background-color: rgb(238, 238, 238)
+    ;
+}
+
+.page-footer{
+    background-color: rgb(128, 0, 0)
+}
+
+.carousel{
+    margin-top: 130px;
+}
+
