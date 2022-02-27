@@ -1,0 +1,25 @@
+.main-navbar{
+    background-color: rgb(128, 0, 0)
+    ;
+    z-index: 99;
+
+
+}
+
+.text1{
+    color: rgb(238, 238, 238)
+    ;
+    font-size: 19px;
+}
+
+body{
+    background-color: rgb(238, 238, 238)
+    ;
+}
+
+.card{
+    background-color: rgb(238, 238, 238);
+
+
+    
+}
